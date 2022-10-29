@@ -1,0 +1,82 @@
+<h1>Berkay Mert Ertürk</h1>
+<!-- Adım-soyadımın olduğu başlık -->
+<hr>
+<h2>Hakkımda</h2>
+<!-- Alt başlık hakkımda -->
+<hr>
+<h3>En son okuduğum kitaplar</h3>
+<p>Kendine İyi Davran Güzel İnsan</p>
+<p>Odaklanmanın Gücü</p>
+<!-- Okuduğum kitapların paragrafı -->
+<hr>
+<h4>En son izlediğim diziler</h4>
+<p>Gibi ve Peaky Blinders</p>
+<!-- İzlediğim dizilerin paragrafı -->
+<hr>
+<h5>Özet</h5>
+<p>Gebze Teknik Üniversitesi’nde Ekonomi öğrencisiyim. Aynı zamanda Gebze Teknik Üniversitesi Bilgisayar Topluluğunda Finans Direktörüyüm. Öğrenmeye açık, verilen sorumlulukları yerine getiren, yaptığı işte en iyi sonucu almayı hedefleyen biriyim. İşleyişe hemen ayak uydurabilen, işe çabuk adapte olan, takım çalışmasına önem veren biriyim. Öğreneceğim çok şeyin olduğunun bilincindeyim. Fırsat verilmesi halinde hem kendimi geliştirmek hem de çalıştığım firmaya bir şeyler katmak istiyorum.</p>
+<!-- Hakkımda kısmının paragrafı -->
+<hr>
+
+
+<h1></h1>
+<p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+<a href="https://tr.linkedin.com/in/berkaymerterturk" target="_blank">
+   <strong>
+      <em>
+        Berkay Mert Ertürk Linkedin Hesabına Gitmek İçin Tıklayınız
+      </em>
+
+   </strong>
+</a>
+
+
+<br>
+
+<a href="mailto:brkymrtertrk24@gmail.com">
+        <strong>
+            Berkay Mert Ertürk'e Mail At
+        </strong>
+</a>
+<br>
+<a href="tel:0533688786">
+        <em>Berkay Mert Ertürk'ü Ara</em> 
+</a>
+
+
+
+
+
+
+<ol>
+    <li>Kariyer Planlama</li>
+    <li>Sosyolojiye Giriş</li>
+    <li>Sonlu Matematik</li>
+    <li>Hukuka Giriş</li>
+    <li>İktisata Giriş</li>
+    <li>Genel Muhasebe</li>
+    <li>Türkçe</li>
+    <li>Atatürk İlke ve İnkılapları</li>
+
+</ol>
+
+<ul>
+    <li>1.liste</li>
+    <li>2.liste</li>
+    <li>3.liste</li>
+    <li>4.liste</li>
+</ul>
+<img width="100" height="100" src="https://abl.gtu.edu.tr/html/mobil/gtu_logo_tr_500.png" alt="">
+<!-- Gebze Teknik Üniversitesi Logo -->
+<p>GTÜ Logosu</p>
